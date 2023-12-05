@@ -1,6 +1,6 @@
 # Advent of Code 2023
 ## Introduction
-Advent of Code is a yearly event made by the Zero to Mastery Community, it involves a series of puzzles that you need to resolve each day through December 1st to December 25th.
+[Advent of Code](https://adventofcode.com/) is a yearly event made by [Eric Wastl](http://was.tl/), it involves a series of puzzles that you need to resolve each day through December 1st to December 25th.
 
 Each day there'll be 1 puzzle with 2 parts, each part will grant 1 star for a total of 50 stars.
 

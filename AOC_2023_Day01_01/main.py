@@ -1,6 +1,3 @@
-#Import libraries to read inputs
-import os
-
 #AOC 2023 Day 1 Part 1
 
 #Inialating variable that'll store the answer

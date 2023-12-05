@@ -1,6 +1,3 @@
-#Import libraries to read inputs
-import os
-
 #AOC 2023 Day 2 Part 1
 
 #Creating a function that'll resolve each line
